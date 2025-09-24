@@ -9,6 +9,7 @@ namespace ProyectoClinica.domain.model
 {
     class Person
     {
+
         private ulong id;
         private string name;
         private long CellPhone;
@@ -19,12 +20,13 @@ namespace ProyectoClinica.domain.model
 
         public Person() { }
 
-        public ulong Id { get => id; set => id = value; }
+        
         public string Name { get => name; set => name = value; }
         public long CellPhone1 { get => CellPhone; set => CellPhone = value; }
         public long Document { get => document; set => document = value; }
         public string Mail { get => mail; set => mail = value; }
         public string BirthDate { get => birthDate; set => birthDate = value; }
         public string Address { get => address; set => address = value; }
+        public ulong Id { get => id; set => id = value; }
     }
 }

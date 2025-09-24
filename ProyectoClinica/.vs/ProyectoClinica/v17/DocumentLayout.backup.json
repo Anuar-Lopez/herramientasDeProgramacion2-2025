@@ -1,25 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\",
+  "WorkspaceRootPath": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\documents\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\medical_insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\model\\medical_insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\documents\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\documents\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\billingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\billingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\documents\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\vitalsigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\vitalsigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\procedureorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\procedureorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\procedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\medication_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\medication_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\diagnostictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\diagnostictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\diagnostichelporder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\diagnostichelporder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\documents\\herramientasdeprogramacion2-2025\\proyectoclinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\medical_insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\model\\medical_insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|c:\\users\\anuar\\desktop\\herramientasdeprogramacion2-2025\\proyectoclinica\\domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:domain\\model\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06E8539B-BF55-48EC-BAC6-CABBFD81DA67}|ProyectoClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,37 +118,284 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "medical_insurance.cs",
-              "DocumentMoniker": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\medical_insurance.cs",
-              "RelativeDocumentMoniker": "domain\\model\\medical_insurance.cs",
-              "ToolTip": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\medical_insurance.cs",
-              "RelativeToolTip": "domain\\model\\medical_insurance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "domain\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T06:03:55.204Z",
+              "WhenOpened": "2025-09-24T22:00:16.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "emergencyContact.cs",
-              "DocumentMoniker": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\emergencyContact.cs",
-              "RelativeDocumentMoniker": "domain\\model\\emergencyContact.cs",
-              "ToolTip": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\emergencyContact.cs",
-              "RelativeToolTip": "domain\\model\\emergencyContact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\OrderService.cs",
+              "RelativeToolTip": "domain\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T05:57:19.107Z",
+              "WhenOpened": "2025-09-24T22:19:39.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MedicalRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\MedicalRecordService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\MedicalRecordService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\MedicalRecordService.cs",
+              "RelativeToolTip": "domain\\Services\\MedicalRecordService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:22:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\PatientService.cs",
+              "RelativeToolTip": "domain\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:08:33.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\VisitService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\VisitService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\VisitService.cs",
+              "RelativeToolTip": "domain\\Services\\VisitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:18:05.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Billing.cs",
+              "RelativeDocumentMoniker": "domain\\Billing.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Billing.cs",
+              "RelativeToolTip": "domain\\Billing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:29:25.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillingItem.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\BillingItem.cs",
+              "RelativeDocumentMoniker": "domain\\BillingItem.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\BillingItem.cs",
+              "RelativeToolTip": "domain\\BillingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:44:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillingService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\BillingService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\BillingService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\BillingService.cs",
+              "RelativeToolTip": "domain\\Services\\BillingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:11:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "domain\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "domain\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:16:13.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\Person.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Person.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\Person.cs",
+              "RelativeToolTip": "domain\\model\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T05:20:17.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Visit.cs",
+              "RelativeDocumentMoniker": "domain\\Visit.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Visit.cs",
+              "RelativeToolTip": "domain\\Visit.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:15:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VitalSigns.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\VitalSigns.cs",
+              "RelativeDocumentMoniker": "domain\\VitalSigns.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\VitalSigns.cs",
+              "RelativeToolTip": "domain\\VitalSigns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:23:08.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProcedureOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\ProcedureOrder.cs",
+              "RelativeDocumentMoniker": "domain\\ProcedureOrder.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\ProcedureOrder.cs",
+              "RelativeToolTip": "domain\\ProcedureOrder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:42:12.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Procedure.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Procedure.cs",
+              "RelativeDocumentMoniker": "domain\\Procedure.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Procedure.cs",
+              "RelativeToolTip": "domain\\Procedure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:49:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "patient.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\patient.cs",
+              "RelativeDocumentMoniker": "domain\\patient.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\patient.cs",
+              "RelativeToolTip": "domain\\patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:47:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Order.cs",
+              "RelativeDocumentMoniker": "domain\\Order.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Order.cs",
+              "RelativeToolTip": "domain\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:13:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Medication_Order.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Medication_Order.cs",
+              "RelativeDocumentMoniker": "domain\\Medication_Order.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Medication_Order.cs",
+              "RelativeToolTip": "domain\\Medication_Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:26:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Medication.cs",
+              "RelativeDocumentMoniker": "domain\\Medication.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\Medication.cs",
+              "RelativeToolTip": "domain\\Medication.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:37:03.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\MedicalHistory.cs",
+              "RelativeDocumentMoniker": "domain\\MedicalHistory.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\MedicalHistory.cs",
+              "RelativeToolTip": "domain\\MedicalHistory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T04:50:47.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DiagnosticTest.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\DiagnosticTest.cs",
+              "RelativeDocumentMoniker": "domain\\DiagnosticTest.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\DiagnosticTest.cs",
+              "RelativeToolTip": "domain\\DiagnosticTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:04:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DiagnosticHelpOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\DiagnosticHelpOrder.cs",
+              "RelativeDocumentMoniker": "domain\\DiagnosticHelpOrder.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\DiagnosticHelpOrder.cs",
+              "RelativeToolTip": "domain\\DiagnosticHelpOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:56:51.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\User.cs",
               "RelativeDocumentMoniker": "domain\\model\\User.cs",
-              "ToolTip": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\User.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\User.cs",
               "RelativeToolTip": "domain\\model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,28 +404,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\Person.cs",
-              "RelativeDocumentMoniker": "domain\\model\\Person.cs",
-              "ToolTip": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\Person.cs",
-              "RelativeToolTip": "domain\\model\\Person.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "Medical_insurance.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\Medical_insurance.cs",
+              "RelativeDocumentMoniker": "domain\\model\\Medical_insurance.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\Medical_insurance.cs",
+              "RelativeToolTip": "domain\\model\\Medical_insurance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T05:20:17.485Z",
+              "WhenOpened": "2025-09-15T06:03:55.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ANUAR\\Documents\\herramientasDeProgramacion2-2025\\ProyectoClinica\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 23,
+              "Title": "EmergencyContact.cs",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\EmergencyContact.cs",
+              "RelativeDocumentMoniker": "domain\\model\\EmergencyContact.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\domain\\model\\EmergencyContact.cs",
+              "RelativeToolTip": "domain\\model\\EmergencyContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T04:45:16.765Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-15T05:57:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ANUAR\\Desktop\\herramientasDeProgramacion2-2025\\ProyectoClinica\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T04:45:16.765Z"
             }
           ]
         }
